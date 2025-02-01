@@ -3,7 +3,9 @@
 
 <h2>🌱 I’m currently learning Python:</h2>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨🏻‍💻 Coding under RE1016-ENGINEERING COMPUTATION:</h2>
+
+<h2>📟 Software Development Projects:</h2>
 
 - coming soon!
 
