@@ -1,13 +1,11 @@
 <h1>Hello, I'm Jin Wen!
 <h2>I am an undergraduate under the Renaissance Engineering Programme at Nanyang Technological University <br/><a href="https://www.linkedin.com/in/thailowjinwen/">(and here is my LinkedIn!)</a>
 
-<h2>🌱 I’m currently learning Python</h2>
+<h2>🌱 I’m currently learning Python and C++</h2>
 
 <h2>👨🏻‍💻 Coding under RE1016-ENGINEERING COMPUTATION</h2>
 
-<h2>📟 Software Development Projects</h2>
-
-
+<h2>📟 Random Projects (lore based)</h2>
 
 <h2> 🤳 Connect with me!</h2>
 
