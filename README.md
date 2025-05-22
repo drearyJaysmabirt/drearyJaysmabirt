@@ -1,31 +1,26 @@
-<h1>Hello, I'm Jin Wen!
-<h2>I am an undergraduate under the Renaissance Engineering Programme at Nanyang Technological University <br/><a href="https://www.linkedin.com/in/thailowjinwen/">(and here is my LinkedIn!)</a>
+<h1 align="center">Hello World, I'm Jin Wen! 👋</h1>
 
-<h2>🌱 I’m currently learning Python and C++</h2>
+<h3 align="center">I'm an undergraduate at NTU's Renaissance Engineering Programme</h3>
 
-<h2>👨🏻‍💻 Coding under RE1016-ENGINEERING COMPUTATION</h2>
+---
 
-<h2>📟 Random Projects (lore based)</h2>
+  ### 📚 Currently Learning
+- **Python** (Pandas, Matplotlib)
+- **C++** (Arduino frameworks)
+- **Embedded Systems** (I²C, Sensor interfacing)</h2>
 
-<h2> 🤳 Connect with me!</h2>
+### 📌 University Work
+- **RE1016 - Engineering Computation**: | [🔍 NTU F&B Search Engine](https://github.com/drearyJaysmabirt/NTU-FnB-Search-Engine) | Python-based canteen recommender with keyword/price/location filters | Python, Pandas, PyGame |
 
+### 📟 Random Projects (lore-based)
+- **RE1015 - MedTech Competition**: | [🌡️ Arduino Thermal Camera](https://github.com/drearyJaysmabirt/AMG8833-Thermal-Camera) | DIY thermal imaging system with 8x8 IR sensor | Arduino, Python, I²C |
+-  **[⏱️ LCD Stopwatch](https://github.com/drearyJaysmabirt/Arduino-LCD-Stopwatch)** : | Precision timer with millisecond display | Arduino, LiquidCrystal |
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### 🤳 Connect With Me
 
+[<img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(186deg) brightness(104%) contrast(97%)"/>][linkedin]
+[<img align="left" alt="GitHub" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="filter: invert(1) brightness(1.5)"/>][github]
+<br/><br/>
 
 [linkedin]: https://www.linkedin.com/in/thailowjinwen/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[github]: https://github.com/drearyJaysmabirt
