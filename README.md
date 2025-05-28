@@ -13,8 +13,9 @@
 - **RE1016 - Engineering Computation**: | [🔍 NTU F&B Search Engine](https://github.com/drearyJaysmabirt/NTU-FnB-Search-Engine) | Python-based canteen recommender with keyword/price/location filters | Python, Pandas, PyGame |
 
 ### 📟 Random Projects (lore-based)
-- **RE1015 - MedTech Competition**: | [🌡️ Arduino Thermal Camera](https://github.com/drearyJaysmabirt/AMG8833-Thermal-Camera) | DIY thermal imaging system with 8x8 IR sensor | Arduino, Python, I²C |
--  **[⏱️ LCD Stopwatch](https://github.com/drearyJaysmabirt/Arduino-LCD-Stopwatch)** : | Precision timer with millisecond display | Arduino, LiquidCrystal |
+- **[🦖 Chrome Dino Game Arduino Hacks](https://github.com/drearyJaysmabirt/Chrome-Dino-Game-Hacks)** | Automatic offline Chrome dinosaur game player
+- **[🌡️ Arduino Thermal Camera](https://github.com/drearyJaysmabirt/AMG8833-Thermal-Camera)** | RE1015 - MedTech Competition |  DIY thermal imaging system with 8x8 IR sensor | Arduino, Python, I²C 
+-  **[⏱️ LCD Stopwatch](https://github.com/drearyJaysmabirt/Arduino-LCD-Stopwatch)** : | Precision timer with millisecond display | Arduino, LiquidCrystal 
 
 ### 🤳 Connect With Me
 
