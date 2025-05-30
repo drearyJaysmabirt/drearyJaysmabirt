@@ -21,7 +21,8 @@
 
 [<img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(186deg) brightness(104%) contrast(97%)"/>][linkedin]
 [<img align="left" alt="GitHub" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="filter: invert(1) brightness(1.5)"/>][github]
-<br/><br/>
+[<img align="left" alt="GrabCAD" width="28px" src="https://www.grabcad.com/favicon.ico" style="padding-right:10px;"/>][grabcad]
 
 [linkedin]: https://www.linkedin.com/in/thailowjinwen/
 [github]: https://github.com/drearyJaysmabirt
+[grabcad]: https://grabcad.com/jin.wen.thai.low-1
